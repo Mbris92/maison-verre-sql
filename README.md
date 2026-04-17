@@ -50,7 +50,7 @@ Skills demonstrated:
 
 ---
 
-## Data Visualization — Power BI & Tableau
+## Data Visualization — Power BI 
 
 A structured 20-task visualization curriculum completed across 
 Power BI and Tableau, built entirely around the Maison Verre 
@@ -70,9 +70,6 @@ Q4 performance across six product categories and three store
 locations. Includes revenue by category, monthly store trend 
 by location, revenue share donut chart, and three KPI callout 
 cards — Total Revenue, Top Store, and Top Category.
-
-### Tableau Capstone — Q4 Executive Summary Dashboard
-[To be completed]
 
 ---
 
